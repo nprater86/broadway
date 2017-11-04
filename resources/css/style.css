@@ -5,12 +5,12 @@ html{
 
 .flatironbanner{
   background-image: url("../images/the-flatiron-building.png");
+  color: white;
 }
 
 h1{
   font-size: 70px;
   font-weight: bold;
-  color: white;
 }
 
 .link a{
