@@ -12,3 +12,8 @@ h1{
   font-weight: bold;
   color: white;
 }
+
+.link a{
+  font-size: 18px;
+  color: white;
+}
